@@ -7,28 +7,28 @@ NLTK
 Scikit-learn
 Streamlit
 JSON for intents data
-## Installation and Usage:
-1. Clone the repository and navigate to the project directory:
+# Installation and Usage:
+# 1. Clone the repository and navigate to the project directory:
    
    git clone <repository-url>
    cd <repository-directory>
   
-2. (Optional) Set up a virtual environment:
+# 2. (Optional) Set up a virtual environment:
    
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    
-3. Install the required dependencies:
+# 3. Install the required dependencies:
    
    pip install -r requirements.txt
    
-4. Download the necessary NLTK data:
+# 4. Download the necessary NLTK data:
    python
    import nltk
    nltk.download('punkt')
 
 
-To launch the chatbot, run:
+# To launch the chatbot, run:
 
 streamlit run app.py
 
