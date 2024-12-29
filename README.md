@@ -3,10 +3,14 @@
 This project involves creating a chatbot powered by Natural Language Processing (NLP) techniques. The chatbot is built to comprehend user intents and deliver suitable responses by leveraging predefined patterns and replies. It integrates the nltk library for NLP tasks, scikit-learn for implementing machine learning models, and streamlit for developing an interactive and user-friendly web interface.
 # Technologies Used
 **-Python**
+
 **-NLTK**
+
 **-Scikit-learn**
+
 **-Streamlit**
-**-JSON for intents data**
+
+**-JSON**for intents data
 ### Installation and Usage:
 1. Clone the repository and navigate to the project directory:
    ```
